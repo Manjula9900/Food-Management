@@ -6,6 +6,10 @@ public class Delete_Doctore {
 		
 		System.out.println("-- delete doctor --");
 
+		System.out.println("-- delete doctor --");
+		System.out.println("-- delete doctor --");
+		System.out.println("-- delete doctor --");
+
 	}
 
 }

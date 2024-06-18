@@ -1,10 +1,10 @@
 package Admin_Module;
 
-public class CreateDoctor {
+public class Delete_Doctore {
 
 	public static void main(String[] args) {
 		
-		System.out.println("-- create doctor --");
+		System.out.println("-- delete doctor --");
 
 	}
 
